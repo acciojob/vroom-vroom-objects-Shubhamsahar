@@ -1,7 +1,4 @@
-// Complete the js code
-function Car(make, model) {}
 
-function SportsCar(make, model, topSpeed) {}
 function Car(make, model) {
     this.make = make;
     this.model = model;
