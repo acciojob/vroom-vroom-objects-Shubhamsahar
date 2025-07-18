@@ -1,7 +1,5 @@
 // Complete the js code
-function Car(make, model) {}
 
-function SportsCar(make, model, topSpeed) {}
 class Car {
     constructor(make, model) {
         this.make = make;
